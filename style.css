@@ -1,0 +1,19 @@
+h2 {
+    color: darkslategrey;
+    text-align: center;
+}
+
+body {
+    background-color: beige;
+}
+
+.button-container {
+    margin-left: 20px;
+}  
+
+fieldset{
+    border: none;
+}
+
+
+
